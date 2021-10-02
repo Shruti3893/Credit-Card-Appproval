@@ -26,6 +26,7 @@ The Business Objective for this Project is to predict if an applicant is 'good' 
 - Credit Dataset : This dataset has our Target Variable. Dimensions of the data are seen to have 3 columns and approx ~10lakh entries. 
 
 [application_record.csv](https://github.com/Shruti3893/Credit-Card-Appproval/blob/main/application_record.csv) - Link for Application Dataset.
+
 [credit_record.csv](https://github.com/Shruti3893/Credit-Card-Appproval/blob/main/credit_record.csv) - Link for Credit Dataset.
 
 ## [3. Exploratory Data Analysis]
